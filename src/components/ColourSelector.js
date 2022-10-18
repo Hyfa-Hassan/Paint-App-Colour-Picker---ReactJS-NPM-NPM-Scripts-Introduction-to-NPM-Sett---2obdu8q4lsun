@@ -1,4 +1,4 @@
-import React, {Components} from 'react';
+import React from 'react';
 
 const ColourSelector = (props) => {
   const { config, selectNextBackground } = props
