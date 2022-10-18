@@ -1,4 +1,5 @@
 import React, {useState} from "react";
+import '../styles/Child.css';
 const Selection = ({applyColor}) =>{
   return (
     const [selectionStyle, updateSelectionStyle] = useState({});
