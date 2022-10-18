@@ -1,5 +1,6 @@
 import React from 'react';
 import Selection from './Selection';
+import '../styles/Child.css';
 const ColourSelector = (props) => {
   const { config, selectNextBackground } = props
   const { background, classname, label} = config;
