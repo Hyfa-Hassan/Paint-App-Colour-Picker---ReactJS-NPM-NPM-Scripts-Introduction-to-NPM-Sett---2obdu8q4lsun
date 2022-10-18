@@ -1,3 +1,4 @@
+import React, {useState} from "react";
 const Selection = ({applyColor}) =>{
   return (
     const [selectionStyle, updateSelectionStyle] = useState({});
