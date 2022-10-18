@@ -1,5 +1,5 @@
 import React from 'react';
-
+import Selection from './Selection';
 const ColourSelector = (props) => {
   const { config, selectNextBackground } = props
   const { background, classname, label} = config;
